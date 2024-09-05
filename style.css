@@ -19,7 +19,8 @@ body { background-color: var(--cor-de-fundo);
 }
 
 .container {
-     height: 100vh; 
+     height: 100vh;
+     display: grid; 
     }
 
     .container__botao { 
