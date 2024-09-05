@@ -23,11 +23,11 @@ body { background-color: var(--cor-de-fundo);
      display: grid; 
     }
 
-    .container__botao { 
-        background-color: var(--botao-azul);
-        border-radius: 5px
+    
+     .container__botao { 
+        background-color: var(--botao-azul); 
+        border-radius: 5px;
         padding: 1em;
-        color:
-         var(--branco-principal);
-         display: block;
-     }
+        display: block;
+    
+    }
